@@ -10,7 +10,7 @@ A simple blog web application built with Django. This project allows users to re
 - Detailed view for individual posts
 - Custom 404 and 500 error pages
 - Organized using Django best practices
-- Deployed on [PythonAnywhere](https://www.cash1234/pythonanywhere.com/)
+- Deployed on [PythonAnywhere](https://www.cash1234.pythonanywhere.com/)
 
 ---
 
